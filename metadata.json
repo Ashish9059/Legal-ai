@@ -1,0 +1,5 @@
+{
+  "name": "Nyaya Sahayak",
+  "description": "A production-ready AI legal assistant for Indian Law (IPC, CrPC, Constitution). Features tiered monetization, document generation, and context-aware legal advice with strict safety protocols.",
+  "requestFramePermissions": []
+}
